@@ -19,51 +19,51 @@ ICML 2020
 ## Transfer Learning / Domain Adaptation
 ## Tools, Environment & Datasets
 ## Reinforcement Learning
-Model-based RL
-Exploration in RL
-Multi-Task Learning
-Imitation Learning +1
+Model-based RL  
+Exploration in RL  
+Multi-Task Learning  
+Imitation Learning  
 ## Safety
 ## Deep Learning
-Convolutional Neural Networks
-Sequence Modeling
-Recurrent Neural Networks
-Attention
-Scalability and Speed
-Parallel and Distributed Learning
-Distillation / Compactness
+Convolutional Neural Networks  
+Sequence Modeling  
+Recurrent Neural Networks  
+Attention  
+Scalability and Speed  
+Parallel and Distributed Learning  
+Distillation / Compactness  
 ## Natural Language Processing & Understanding
-Word, Phrase, Paragraph, Document Representation
-Semantics
-Multilingual Methods
-Information Extraction
+Word, Phrase, Paragraph, Document Representation  
+Semantics  
+Multilingual Methods  
+Information Extraction  
 ## Regularization
 ## Multi-Modal
 ## Generative Models
-GANs
-VAEs
-Normalizing Flows
+GANs  
+VAEs  
+Normalizing Flows  
 ## Variational Inference
 ## Linear Models
 ## Unsupervised Learning
-Clustering
-Dimensionality Reduction
-Autoencoders
+Clustering  
+Dimensionality Reduction  
+Autoencoders  
 ## Representation Learning
 ## Memory
 ## Multi-Agent Systems
 ## Metalearning
-Neural Programming
-Hyperparameter Optimization
-Loss Function Learning
+Neural Programming  
+Hyperparameter Optimization  
+Loss Function Learning  
 ## Evolution
 ## Game Theory
 ## General Machine Learning
 ## Theory
-Mean Field Theory
-Infinite Width NNs
-Probably Approximate Correctness
-VC Dimension
+Mean Field Theory  
+Infinite Width NNs  
+Probably Approximate Correctness  
+VC Dimension  
 ## Neuroscience
 ## Interpretability
 ## Adversarial Examples
@@ -71,25 +71,25 @@ VC Dimension
 ## Collaborative Filtering
 ## Graphical / Relational Learning
 ## Optimization
-Convex
-Non-Convex
+Convex  
+Non-Convex  
 ## Bandits
-Multi-Armed Bandit
+Multi-Armed Bandit  
 ## Topological Data Analysis
 ## Semi-Supervised Learning
 ## Self-Supervised Learning
 ## Learning to Rank & Structured Prediction
 ## Feature Selection
 ## Statistical Machine Learning
-Bayesian Machine Learning
-Bayesian Deep Learning
-Bayesian Nonparametrics
-Statistical Processes
-Gaussian Processes
-Poisson Processes
-MCMC
-Uncertainty Estimation
-Distributional Shift Robustness
+MCMC  
+Uncertainty Estimation  
+Distributional Shift Robustness  
+###Bayesian Machine Learning  
+Bayesian Deep Learning  
+Bayesian Nonparametrics  
+###Statistical Processes  
+Gaussian Processes  
+Poisson Processes  
 ## Reasoning
 ## Causal Inference
 ## Online Learning
@@ -104,38 +104,38 @@ Distributional Shift Robustness
 ## Hardware
 Neuromorphic Hardware
 ## Applications
-Speech Recognition
-Image Categorization
-Image Captioning
-Natural Language Understanding
-Machine Translation
-Language Modeling / Generation
-Question Answering
-Summarization
-Search
-Parsing
-Pedestrian Detection
-Grasp Detection
-Go
-Video
-Dialogue
-3D Object Reconstruction
-Speaker Verification
-Health Care
-Theorem Proving
-Music
-Pose Estimation
-Social Media
-Speech Generation
-System Design / Device Placement
-Fairness
-Super Resolution
-Chemistry
-Molecules and Materials
-Robotics
-Autonomous Vehicles
-Physics
-Games
-Art
+Speech Recognition  
+Image Categorization  
+Image Captioning  
+Natural Language Understanding  
+Machine Translation  
+Language Modeling / Generation  
+Question Answering  
+Summarization  
+Search  
+Parsing  
+Pedestrian Detection  
+Grasp Detection  
+Go  
+Video  
+Dialogue  
+3D Object Reconstruction  
+Speaker Verification  
+Health Care  
+Theorem Proving  
+Music  
+Pose Estimation  
+Social Media  
+Speech Generation  
+System Design / Device Placement  
+Fairness  
+Super Resolution  
+Chemistry  
+Molecules and Materials  
+Robotics  
+Autonomous Vehicles  
+Physics  
+Games  
+Art  
 
 
