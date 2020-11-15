@@ -3,15 +3,15 @@
 We’ll start with the intersection of the Brain, Deepmind, and OpenAI research frontiers, and follow up with the workshops at ICML, NeurIPS, ICLR, EMNLP and ACL for the last 2 years.
 Later, I can add CVPR, AAAI.
 
-[ICML 2019](https://icml.cc/Conferences/2019/Schedule), [ICML 2018](https://icml.cc/Conferences/2018/Schedule)
-[NeurIPS 2019](https://nips.cc/Conferences/2019/Schedule), [NIPS 2018](https://nips.cc/Conferences/2018/Schedule)
-[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule), [ICLR 2018](https://iclr.cc/Conferences/2018/Schedule)
-[EMNLP 2018](https://emnlp2018.org/schedule/)
-[ACL 2018](https://acl2018.org/programme/schedule/)
-ICML 2020
-[Deepmind Research Overview](https://docs.google.com/document/d/1uotusHhahdhd_UiJSWR7lzyTutechLaSven7UOIBsiE/edit?usp=sharing)
-[Google Brain Research Overview](https://docs.google.com/document/d/1meJGCTknQ8z5D9ejj5eM6wfVQxivqgrR8hpKq0Rlk0A/edit?usp=sharing)
-[Open AI Research Overview](https://docs.google.com/document/d/1BbHW2B6bygh8dYxrvYhGuH6x-eFgdDpdez9MZkrQntU/edit?usp=sharing)
+[ICML 2019](https://icml.cc/Conferences/2019/Schedule), [ICML 2018](https://icml.cc/Conferences/2018/Schedule)  
+[NeurIPS 2019](https://nips.cc/Conferences/2019/Schedule), [NIPS 2018](https://nips.cc/Conferences/2018/Schedule)  
+[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule), [ICLR 2018](https://iclr.cc/Conferences/2018/Schedule)  
+[EMNLP 2018](https://emnlp2018.org/schedule/)  
+[ACL 2018](https://acl2018.org/programme/schedule/)  
+ICML 2020  
+[Deepmind Research Overview](https://docs.google.com/document/d/1uotusHhahdhd_UiJSWR7lzyTutechLaSven7UOIBsiE/edit?usp=sharing)  
+[Google Brain Research Overview](https://docs.google.com/document/d/1meJGCTknQ8z5D9ejj5eM6wfVQxivqgrR8hpKq0Rlk0A/edit?usp=sharing)  
+[Open AI Research Overview](https://docs.google.com/document/d/1BbHW2B6bygh8dYxrvYhGuH6x-eFgdDpdez9MZkrQntU/edit?usp=sharing)  
 
 
 # Open Problems
