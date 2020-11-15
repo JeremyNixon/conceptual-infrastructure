@@ -84,10 +84,10 @@ Multi-Armed Bandit
 MCMC  
 Uncertainty Estimation  
 Distributional Shift Robustness  
-###Bayesian Machine Learning  
+### Bayesian Machine Learning  
 Bayesian Deep Learning  
 Bayesian Nonparametrics  
-###Statistical Processes  
+### Statistical Processes  
 Gaussian Processes  
 Poisson Processes  
 ## Reasoning
